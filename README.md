@@ -15,7 +15,7 @@ For Backend Apache TomCat server and MySql database are used.
 The Hibernate is used to map the JSP and Servlets with MySql database. 
 
 After you download the project source package open the project folder in the respective IDE. You will find the hibernate.cfg.xml under the other sources folder In that file you have to change the url, username and password of mysql database with your own.
-![Screenshot 2021-07-23 150644](https://user-images.githubusercontent.com/70894096/126764212-2ca08c21-5ab3-4108-ab56-7524873d90d0.jpg)
+<!-- ![Screenshot 2021-07-23 150644](https://user-images.githubusercontent.com/70894096/126764212-2ca08c21-5ab3-4108-ab56-7524873d90d0.jpg) -->
 
 Run the Application using the IDE and TomCat server.
 
