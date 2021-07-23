@@ -16,6 +16,6 @@ The Hibernate is used to map the JSP and Servlets with MySql database.
 
 After you download the project source package open the project folder in the respective IDE. You will find the hibernate.cfg.xml under the other sources folder In that file you have to change the url, username and password of mysql database with your own.
 
-Run the Application from the IDE and TomCat server.
+Run the Application using the IDE and TomCat server.
 
     
