@@ -22,7 +22,6 @@ Run the Application using the IDE and TomCat server.
 ## Screenshots
 
 ![home](https://user-images.githubusercontent.com/70894096/126760797-44d112a1-3f71-4c44-9d67-471b4b88213b.jpg)
-![contact](https://user-images.githubusercontent.com/70894096/126760803-e9868d12-f1ee-4bc3-90eb-009f42c1562b.jpg)
 ![adminpanel](https://user-images.githubusercontent.com/70894096/126760836-5b97b173-fd23-4ea5-9a3d-3e3b6bff3732.jpg)
 ![adminstudents](https://user-images.githubusercontent.com/70894096/126760867-84c19993-55d8-4125-b26f-0cbe6a1d44cc.jpg)
 
